@@ -18,6 +18,10 @@ This readme is being used as a planner.
 
 # Planning
 
+globals:
+    motor configuration
+    constants
+    
 
 
 # Logging

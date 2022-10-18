@@ -4,13 +4,9 @@
 #define FLYWHEEL_H
 
 namespace flywheel {
-    void update_speed();
-    void set_speed(int speed);
-    void update_lock();
     void main();
-    inline bool lock;
-    inline int speed;
+    void feed();
+    inline bool running;
 }
-
 
 #endif
